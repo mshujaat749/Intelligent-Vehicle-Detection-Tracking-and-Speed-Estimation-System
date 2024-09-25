@@ -9,8 +9,6 @@ This project is a **Vehicle Tracking and Speed Estimation** application that use
 - **Video Upload and Processing:** Upload videos in `mp4` or `avi` format and process them directly in the app.
 - **Download Processed Video:** Download the processed video with the estimated speeds and tracking data.
 
-## 🚀 Demo
-[Provide a link or GIF here showing how the app works]
 
 ## 🛠️ Technologies Used
 - **Python**: The main programming language
