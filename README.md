@@ -1,6 +1,5 @@
-# Vehicle Tracker & Speed Estimator
-
-This project is a **Vehicle Tracking and Speed Estimation** application that uses **YOLOv8** for object detection and OpenCV for video processing. The app is built with **Streamlit**, providing an intuitive and user-friendly interface for vehicle speed estimation.
+# Intelligent Vehicle Detection, Tracking, and Speed Estimation System
+This project is a **Intelligent Vehicle Detection, Tracking, and Speed Estimation System** application that uses **YOLOv8** for object detection and OpenCV for video processing. The app is built with **Streamlit**, providing an intuitive and user-friendly interface for vehicle speed estimation.
 
 ## 🖼️ Features
 - **Vehicle Detection:** Uses YOLOv8 to detect vehicles in video footage.
